@@ -195,7 +195,7 @@
         <label>Field Four</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Boolean</type>
+        <type>Checkbox</type>
         <unique>false</unique>
     </fields>
     <validationRules>
